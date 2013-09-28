@@ -1,0 +1,8 @@
+<quadCalibrator>
+  <quadWarper>
+    <topLeft srcX="73.0" srcY="20.0" destX="91.0" destY="14.0"/>
+    <topRight srcX="785.0" srcY="17.0" destX="927.0" destY="14.0"/>
+    <downRight srcX="849.0" srcY="520.0" destX="974.0" destY="622.0"/>
+    <downLeft srcX="37.0" srcY="547.0" destX="77.0" destY="640.0"/>
+  </quadWarper>
+</quadCalibrator>
